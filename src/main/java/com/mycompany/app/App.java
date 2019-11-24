@@ -11,8 +11,8 @@ public class App
 
    System.out.println( "welcome to jenkins!" ); 
     System.out.println( "Hello World!" );
-   System.out.println( "welcome to jenkins!" )
-    System.out.println( "Hello World!" )
+   System.out.println( "welcome to jenkins!" );
+    System.out.println( "Hello World!" );
 
-    
-
+ }   
+}
